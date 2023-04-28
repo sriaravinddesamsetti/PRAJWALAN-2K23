@@ -1,5 +1,5 @@
 # PRAJWALAN-2K23
-![image](https://user-images.githubusercontent.com/85325733/235183300-d1f41314-6b74-47ee-9ef4-218d84c18592.png)
+![8D1A8126](https://user-images.githubusercontent.com/85325733/235184025-eeb6321a-15a0-46e7-b269-ba42b5b7dc24.JPG)
 
 ## About
 PRAJWALAN2K23 is a hackathon organized by ACE Student Chapter, Department of Computer Science & Engineering in collaboration with Technology Center of Sagi Rama Krishnam Raju College of Engineering, Bhimavaram, Andhra Pradesh, India.
